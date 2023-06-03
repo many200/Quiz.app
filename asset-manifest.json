@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74e1adfd.css",
+    "main.js": "/static/js/main.4548497f.js",
+    "static/media/depositphotos_41197145-stock-photo-quiz.jpeg": "/static/media/depositphotos_41197145-stock-photo-quiz.68ce1b14b0abf84817d1.jpeg",
+    "index.html": "/index.html",
+    "main.74e1adfd.css.map": "/static/css/main.74e1adfd.css.map",
+    "main.4548497f.js.map": "/static/js/main.4548497f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e1adfd.css",
+    "static/js/main.4548497f.js"
+  ]
+}
